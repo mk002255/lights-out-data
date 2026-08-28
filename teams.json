@@ -1,0 +1,255 @@
+{
+  "mercedes": {
+    "name": "Mercedes-AMG Petronas",
+    "constructorId": "mercedes",
+    "base": "Brackley, United Kingdom",
+    "founded": "1970 (as Tyrrell)",
+    "championships": 8,
+    "history": "The Silver Arrows have one of F1's most complex histories. The team's roots trace back to Ken Tyrrell's squad in 1970, which won three championships with Jackie Stewart before passing through British American Racing and Honda hands. Ross Brawn famously bought the team for £1 in 2009, and Jenson Button won the title that same year. Mercedes acquired the team in 2010, and with Lewis Hamilton and later Nico Rosberg, they dominated the hybrid era like few teams before them — winning eight consecutive Constructors' Championships from 2014 to 2021. Since 2022, George Russell and Kimi Antonelli have continued to push the Silver Arrows toward glory.",
+    "careerWins": 129,
+    "careerPodiums": 296,
+    "teamPrincipal": "Toto Wolff",
+    "chiefEngineer": "James Allison",
+    "carDesigner": null,
+    "raceEngineers": [
+      {
+        "driver": "George Russell",
+        "engineer": "Marcus Dudley"
+      },
+      {
+        "driver": "Kimi Antonelli",
+        "engineer": "Peter \"Bono\" Bonnington"
+      }
+    ]
+  },
+  "ferrari": {
+    "name": "Scuderia Ferrari HP",
+    "constructorId": "ferrari",
+    "base": "Maranello, Italy",
+    "founded": "1950",
+    "championships": 16,
+    "history": "Ferrari is the only team to have competed in every Formula 1 season since the championship began in 1950, making them the sport's most iconic constructor. Founded by Enzo Ferrari in Maranello, the Scuderia has produced some of the greatest moments in motorsport history. Alberto Ascari won back-to-back titles in 1952 and 1953, while Niki Lauda's legendary comeback from his near-fatal 1976 accident remains one of sport's most remarkable stories. Michael Schumacher and Ferrari's dynasty from 2000 to 2004 produced five consecutive Drivers' Championships. Lewis Hamilton's arrival in 2025 rekindled global excitement around the Scuderia's pursuit of ending their long title drought.",
+    "careerWins": 251,
+    "careerPodiums": 833,
+    "teamPrincipal": "Fred Vasseur",
+    "chiefEngineer": "Loïc Serra",
+    "carDesigner": null,
+    "raceEngineers": [
+      {
+        "driver": "Charles Leclerc",
+        "engineer": "Bryan Bozzi"
+      },
+      {
+        "driver": "Lewis Hamilton",
+        "engineer": "Cédric Michel-Grosjean"
+      }
+    ]
+  },
+  "mclaren": {
+    "name": "McLaren F1 Team",
+    "constructorId": "mclaren",
+    "base": "Woking, United Kingdom",
+    "founded": "1963",
+    "championships": 9,
+    "history": "Founded by New Zealander Bruce McLaren in 1963, the team made its F1 debut in 1966 and won its first race at the 1968 Belgian GP with Bruce himself at the wheel. After his tragic death in 1970, the team continued to grow under Ron Dennis, entering their golden era in the 1980s with Niki Lauda, Alain Prost, and Ayrton Senna. The 1988 season remains legendary — McLaren won 15 of 16 races. After decades of near-misses, McLaren ended their long title drought by winning the 2024 Constructors' Championship, their first in 26 years, with Lando Norris claiming the 2025 Drivers' title in a dramatic Abu Dhabi finale.",
+    "careerWins": 192,
+    "careerPodiums": 508,
+    "teamPrincipal": "Andrea Stella",
+    "chiefEngineer": "Neil Houldey",
+    "carDesigner": "Rob Marshall",
+    "raceEngineers": [
+      {
+        "driver": "Lando Norris",
+        "engineer": "Will Joseph"
+      },
+      {
+        "driver": "Oscar Piastri",
+        "engineer": "Tom Stallard"
+      }
+    ]
+  },
+  "red_bull": {
+    "name": "Red Bull Racing",
+    "constructorId": "red_bull",
+    "base": "Milton Keynes, United Kingdom",
+    "founded": "2005",
+    "championships": 6,
+    "history": "Red Bull Racing was formed in 2005 when energy drink magnate Dietrich Mateschitz purchased the struggling Jaguar Racing team. The factory in Milton Keynes dated back to 1990 and the Stewart Grand Prix days. After slow early progress, the signing of technical genius Adrian Newey transformed the team entirely. Sebastian Vettel delivered four consecutive Drivers' and Constructors' Championships from 2010 to 2013 in one of F1's most dominant spells. Max Verstappen then took the baton, winning four straight titles from 2021 to 2024, cementing Red Bull's status as one of F1's all-time great teams.",
+    "careerWins": 124,
+    "careerPodiums": 292,
+    "teamPrincipal": "Laurent Mekies",
+    "chiefEngineer": "Pierre Waché",
+    "carDesigner": null,
+    "raceEngineers": [
+      {
+        "driver": "Max Verstappen",
+        "engineer": "Gianpiero \"GP\" Lambiase"
+      },
+      {
+        "driver": "Isack Hadjar",
+        "engineer": "Richard Wood"
+      }
+    ]
+  },
+  "alpine": {
+    "name": "BWT Alpine F1 Team",
+    "constructorId": "alpine",
+    "base": "Enstone, United Kingdom",
+    "founded": "1981 (as Toleman)",
+    "championships": 2,
+    "history": "Alpine's roots trace back to the Toleman team of the early 1980s — the very team that gave Ayrton Senna his F1 debut in 1984. The team was sold to Benetton in 1986, who won consecutive championships with Michael Schumacher in 1994 and 1995. Renault then acquired the team, winning further titles with Fernando Alonso in 2005 and 2006. After spells as Lotus and Racing Point, Renault rebranded the team as Alpine in 2021 in honour of their sports car brand. Pierre Gasly and Franco Colapinto now lead the French manufacturer's quest to return to the top of F1.",
+    "careerWins": 35,
+    "careerPodiums": 129,
+    "teamPrincipal": "Flavio Briatore",
+    "chiefEngineer": "David Sanchez",
+    "carDesigner": null,
+    "raceEngineers": [
+      {
+        "driver": "Pierre Gasly",
+        "engineer": "Josh Peckett"
+      },
+      {
+        "driver": "Franco Colapinto",
+        "engineer": "Stuart Barlow"
+      }
+    ]
+  },
+  "racing_bulls": {
+    "name": "Racing Bulls",
+    "constructorId": "racing_bulls",
+    "base": "Faenza, Italy",
+    "founded": "1985 (as Minardi)",
+    "championships": 0,
+    "history": "Based in Faenza, Italy, this team's history began with Giancarlo Minardi in 1985. Despite never winning a race in 20 years, Minardi became beloved for nurturing talent — Fernando Alonso made his F1 debut with them in 2001. Red Bull acquired the team in 2005 and rebranded it Scuderia Toro Rosso, serving as their junior team. In an extraordinary moment, the 'junior' team beat its parent at the 2008 Italian GP when Sebastian Vettel won from pole. The team was rebranded AlphaTauri in 2020, then Racing Bulls in 2024, continuing its role as a launchpad for Red Bull's promising talent with Liam Lawson and rookie Arvid Lindblad in 2026.",
+    "careerWins": 2,
+    "careerPodiums": 9,
+    "teamPrincipal": "Alan Permane",
+    "chiefEngineer": "Tim Goss",
+    "carDesigner": null,
+    "raceEngineers": [
+      {
+        "driver": "Liam Lawson",
+        "engineer": "Alexandre Iliopoulos"
+      },
+      {
+        "driver": "Arvid Lindblad",
+        "engineer": "Pierre Hamelin"
+      }
+    ]
+  },
+  "haas": {
+    "name": "MoneyGram Haas F1 Team",
+    "constructorId": "haas",
+    "base": "Kannapolis, USA",
+    "founded": "2016",
+    "championships": 0,
+    "history": "Haas is the only American-owned team on the current F1 grid. Founded by NASCAR team owner Gene Haas and team principal Günther Steiner, they made their debut in 2016 with an impressive points haul in their first race in Melbourne. The team is unique in F1 as they design their own car but purchase many components from Ferrari, taking advantage of regulations that allow this approach. Though small by F1 standards, Haas has punched above their weight on numerous occasions and reached their best championship result with Nico Hülkenberg's maiden podium at the 2024 Belgian GP.",
+    "careerWins": 0,
+    "careerPodiums": 1,
+    "teamPrincipal": "Ayao Komatsu",
+    "chiefEngineer": "Andrea De Zordo",
+    "carDesigner": "Tom Coupland",
+    "raceEngineers": [
+      {
+        "driver": "Esteban Ocon",
+        "engineer": "Laura Mueller"
+      },
+      {
+        "driver": "Oliver Bearman",
+        "engineer": "Ronan O'Hare"
+      }
+    ]
+  },
+  "williams": {
+    "name": "Williams Racing",
+    "constructorId": "williams",
+    "base": "Grove, United Kingdom",
+    "founded": "1977",
+    "championships": 9,
+    "history": "Williams is one of F1's most storied teams, founded by Frank Williams and Patrick Head in 1977. They dominated the 1980s and 1990s with drivers including Alan Jones, Keke Rosberg, Nelson Piquet, Nigel Mansell, Alain Prost, Damon Hill, and Jacques Villeneuve — winning nine constructors and seven drivers titles. The team's downfall came in the 2000s as budgets and competitiveness declined. In 2020, Dorilton Capital purchased the team from the Williams family, beginning a rebuilding process. Carlos Sainz's arrival in 2025 alongside Alexander Albon has reinvigorated the once-great British squad.",
+    "careerWins": 114,
+    "careerPodiums": 313,
+    "teamPrincipal": "James Vowles",
+    "chiefEngineer": "Pat Fry",
+    "carDesigner": null,
+    "raceEngineers": [
+      {
+        "driver": "Alex Albon",
+        "engineer": "James Urwin"
+      },
+      {
+        "driver": "Carlos Sainz",
+        "engineer": "Gaëtan Jago"
+      }
+    ]
+  },
+  "audi": {
+    "name": "Audi Revolut F1 Team",
+    "constructorId": "audi",
+    "base": "Hinwil, Switzerland",
+    "founded": "1993 (as Sauber)",
+    "championships": 0,
+    "history": "The team based in Hinwil, Switzerland began as Sauber in 1993, founded by Peter Sauber who had been running teams in sports car racing since the 1970s. The Swiss outfit became BMW Sauber in 2006 when BMW entered F1, with Robert Kubica achieving their greatest result — a win at the 2008 Canadian GP. After BMW withdrew, the team became Sauber again, then Alfa Romeo Racing from 2019 before the historic announcement that Audi would take ownership for 2026. With Nico Hülkenberg and Gabriel Bortoleto, the German manufacturer embarks on a new chapter in F1 history.",
+    "careerWins": 1,
+    "careerPodiums": 26,
+    "teamPrincipal": "Jonathan Wheatley",
+    "chiefEngineer": "James Key",
+    "carDesigner": null,
+    "raceEngineers": [
+      {
+        "driver": "Nico Hülkenberg",
+        "engineer": "Steven Petrik"
+      },
+      {
+        "driver": "Gabriel Bortoleto",
+        "engineer": "Jose Manuel López"
+      }
+    ]
+  },
+  "aston_martin": {
+    "name": "Aston Martin Aramco F1 Team",
+    "constructorId": "aston_martin",
+    "base": "Silverstone, United Kingdom",
+    "founded": "1991 (as Jordan)",
+    "championships": 0,
+    "history": "Aston Martin's lineage runs through one of F1's most colourful histories. Eddie Jordan founded the team in 1991 and immediately caused a sensation, finishing fifth in their debut season. Michael Schumacher made his F1 debut with Jordan at the 1991 Belgian GP. The team passed through BAR, Honda, Brawn and Racing Point identities before Canadian billionaire Lawrence Stroll orchestrated a takeover and rebranded as Aston Martin in 2021. Fernando Alonso's arrival in 2023 transformed the team's ambitions, as they built an impressive new factory adjacent to Silverstone with sights set firmly on competing at the very top.",
+    "careerWins": 4,
+    "careerPodiums": 20,
+    "teamPrincipal": "Adrian Newey",
+    "chiefEngineer": "Enrico Cardile",
+    "carDesigner": "Adrian Newey",
+    "raceEngineers": [
+      {
+        "driver": "Fernando Alonso",
+        "engineer": "Chris Cronin"
+      },
+      {
+        "driver": "Lance Stroll",
+        "engineer": "Gary Gannon"
+      }
+    ]
+  },
+  "cadillac": {
+    "name": "Cadillac F1 Team",
+    "constructorId": "cadillac",
+    "base": "Silverstone, United Kingdom",
+    "founded": "2026",
+    "championships": 0,
+    "history": "Cadillac made history as F1's newest constructor, joining the grid in 2026 as the first American manufacturer to compete as a full constructor in decades. The team, backed by General Motors and the Cadillac brand, brought Valtteri Bottas and Sergio Pérez as their experienced driver pairing to build the foundation for their F1 project. Based near Silverstone with additional ties to the United States, Cadillac represents America's growing passion for Formula 1, fuelled by the sport's enormous popularity surge following the Netflix Drive to Survive documentary series.",
+    "careerWins": 0,
+    "careerPodiums": 0,
+    "teamPrincipal": "Marcin Budkowski",
+    "chiefEngineer": "Nick Chester",
+    "carDesigner": "John McQuilliam",
+    "raceEngineers": [
+      {
+        "driver": "Valtteri Bottas",
+        "engineer": "John Howard"
+      },
+      {
+        "driver": "Sergio Pérez",
+        "engineer": "Carlo Pasetti"
+      }
+    ]
+  }
+}
